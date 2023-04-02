@@ -1,0 +1,8 @@
+*.o
+*.so
+*.x
+stdeo.*
+slurm-*.out
+linux_bind.txt
+*.a
+*.lnk
